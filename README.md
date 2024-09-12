@@ -3,8 +3,8 @@
 This is a simple cybersecurity tool I developed for penetration testing. It scans a specified host for active services and their versions, then cross-references these with the Metasploit database to identify potential vulnerabilities. It's designed for ease of use and provides essential insights for security assessments.
 
 **Requirements:**
-- Python
-- Python-Nmap
+- Python3
+- Python3-Nmap
 - Nmap
 - Metasploit
 - Flask
